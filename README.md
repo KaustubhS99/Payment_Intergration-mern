@@ -1,7 +1,7 @@
-## Payment-Intergration-mern
+# Payment-Intergration-mern
 
 
-## Project Name: Payment Integration
+# Project Name: Payment Integration
 
 # Tech Stack:
 
@@ -16,5 +16,4 @@
 
 # Developed the "Payment Integration" project using React.js, with Redux Toolkit for managing state and React-Bootstrap for responsive design. Integrated Stripe to handle payments securely. Utilized Visual Studio Code for development, benefiting from its robust features and GitHub integration.
 
-
- ## https://github.com/user-attachments/assets/6743df23-b957-4f6f-b570-6e534a98b943
+ # https://github.com/user-attachments/assets/6743df23-b957-4f6f-b570-6e534a98b943
