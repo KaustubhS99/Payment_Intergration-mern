@@ -1,9 +1,9 @@
 ## Payment-Intergration-mern
 
 
-Project Name: Payment Integration
+##Project Name: Payment Integration
 
-Tech Stack:
+##Tech Stack:
 
 Frontend: React.js for building interactive UIs, Redux Toolkit for efficient state management, and React-Bootstrap for responsive design.
 Payment Gateway: Stripe for secure and seamless payment processing.
